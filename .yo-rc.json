@@ -1,0 +1,43 @@
+{
+  "generator-jhipster": {
+    "applicationType": "monolith",
+    "gitCompany": "",
+    "baseName": "webapp",
+    "packageName": "io.github.webapp",
+    "packageFolder": "io/github/webapp",
+    "serverPort": 8080,
+    "serviceDiscoveryType": false,
+    "authenticationType": "jwt",
+    "uaaBaseName": "../uaa",
+    "cacheProvider": "ehcache",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "enableSwaggerCodegen": false,
+    "messageBroker": false,
+    "buildTool": "maven",
+    "useSass": false,
+    "clientPackageManager": "npm",
+    "testFrameworks": [
+      "gatling"
+    ],
+    "enableTranslation": false,
+    "nativeLanguage": "en",
+    "languages": [
+      "en"
+    ],
+    "clientFramework": "angularX",
+    "jhiPrefix": "jhi",
+    "jhipsterVersion": "5.8.2",
+    "jwtSecretKey": "ZGVjOGIxODBhNDNjZDZmZTE0MTIyZmQ0ZTY5OTlkYzFlZWVhOTY4ZjU3MGZiMDUwNzllZWJiN2RlMzVhNzYxZDUwNjhiMzkxOTI5NjRiZjZlMDk5ZGI4ODdmMzc1MzRhZmI3ZDkxNmM3N2FmNjQ0NGMzZjAyZDViNDAyNThjNmU=",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": []
+  },
+  "git-provider": "GitHub",
+  "git-company": "PyrateDave123",
+  "repository-name": "webapp"
+}
